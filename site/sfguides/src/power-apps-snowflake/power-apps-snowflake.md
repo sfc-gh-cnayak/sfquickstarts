@@ -23,14 +23,14 @@ Microsoft Power Apps and Power Automate are part of the Microsoft Power Platform
 ### Snowflake
 Snowflake is a cloud-based data platform that allows organizations to store, process, and analyze massive amounts of structured and semi-structured data. It provides a scalable and fully managed services that support diverse data types, making it an ideal choice for businesses looking to harness the power of their data. 
 
-### You'll Learn
+### What You'll Learn
 - Using Power Platform to read and write to Snowflake. 
 - Leveraging Snowflake ML in Power Automate 
 
 ### What You’ll Need 
 - Signup for free [Snowflake Account](https://signup.snowflake.com/?utm_source=snowflake-devrel&utm_medium=developer-guides&utm_cta=developer-guides)
 - Signup for [Power Apps Account](https://www.microsoft.com/en-us/power-platform/products/power-apps/) or use an account with premium Power Apps license 
-- Use your existing Company Entra ID, or [sign-up](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=free-services&ref=azure.microsoft.com&hasfullconsent=true)  
+- Sign in/Up for a [free Azure Account ] (https://aka.ms/msazuretrial) or Use your existing Company Entra ID 
 
 
 ### What You’ll Build 
