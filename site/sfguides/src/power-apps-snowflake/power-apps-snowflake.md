@@ -28,9 +28,9 @@ Snowflake is a cloud-based data platform that allows organizations to store, pro
 - Leveraging Snowflake ML in Power Automate 
 
 ### What You’ll Need 
-- Signup for free [Snowflake Account](https://signup.snowflake.com/?utm_source=snowflake-devrel&utm_medium=developer-guides&utm_cta=developer-guides)
-- Signup for [Power Apps Account](https://www.microsoft.com/en-us/power-platform/products/power-apps/) or use an account with premium Power Apps license 
-- Use your existing Company Entra ID, or [sign-up](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=free-services&ref=azure.microsoft.com&hasfullconsent=true)  
+- Signup for a trial [Snowflake Account](https://signup.snowflake.com/?utm_source=snowflake-devrel&utm_medium=developer-guides&utm_cta=developer-guides)
+- Signup for a trial [Power Apps Account](https://www.microsoft.com/en-us/power-platform/products/power-apps/) or use an account with premium Power Apps license 
+- Signup for a trial [Azure Account](https://aka.ms/msazuretrial)  or use existing Entra account
 
 
 ### What You’ll Build 
